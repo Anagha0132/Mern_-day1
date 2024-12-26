@@ -1,0 +1,33 @@
+h2{
+    color:darkmagenta;
+    background-color: rgb(247, 255, 240);
+    border: 2px;
+    border-color: cadetblue;
+    border-style: double;
+    border-radius: 19px;
+}
+h3{
+    color:forestgreen;
+}
+h1{
+    color: darkslateblue;
+    border:2px;
+    border-color: aquamarine;
+    border-radius: 19px;
+    
+}
+table,th,td{
+    border: chartreuse solid;
+}
+.style2{
+    color: darkviolet;
+    background-color: black;
+    border: 4px violet solid;
+    margin: 40px 50px 100px 60px;
+    padding:50px;
+    background-image: url(https://www.providencecollegecalicut.ac.in/wp-content/uploads/2022/04/principal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
